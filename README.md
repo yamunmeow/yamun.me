@@ -18,6 +18,9 @@
 
 ## 🧩 Project Structure
 
+## 🧩 Project Structure
+
+```text
 /
 ├── public/              # Static assets (images, icons, etc.)
 ├── src/                 # Source files
@@ -28,3 +31,6 @@
 ├── package.json         # Project dependencies and scripts
 ├── tsconfig.json        # TypeScript configuration
 └── README.md            # You're here!
+```
+
+
