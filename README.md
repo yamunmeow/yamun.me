@@ -18,7 +18,13 @@
 
 ## 🧩 Project Structure
 
-<pre> ```text / ├── public/ # Static assets ├── src/ # Source files │ ├── components/ # Reusable UI components │ ├── layouts/ # Page templates and layouts │ └── pages/ # Individual pages and routes ├── astro.config.mjs # Astro configuration ├── package.json # Project dependencies and scripts ├── tsconfig.json # TypeScript configuration └── README.md # You're here! ``` </pre>
-
-
-
+/
+├── public/              # Static assets (images, icons, etc.)
+├── src/                 # Source files
+│   ├── components/      # Reusable UI components
+│   ├── layouts/         # Page templates and layouts
+│   └── pages/           # Individual pages and routes
+├── astro.config.mjs     # Astro configuration
+├── package.json         # Project dependencies and scripts
+├── tsconfig.json        # TypeScript configuration
+└── README.md            # You're here!
