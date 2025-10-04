@@ -1,4 +1,4 @@
-# yamunmeow-sys
+# yamun.me
 
 > This is my personal website, where I share my personal experiences, research, ideas, and artwork.
 > Built with [Astro](https://astro.build/) — a modern, fast, and content-focused web framework.  
@@ -28,3 +28,4 @@
 ├── package.json # Project dependencies and scripts
 ├── tsconfig.json # TypeScript configuration
 └── README.md # You're here!
+
