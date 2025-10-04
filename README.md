@@ -18,8 +18,6 @@
 
 ## 🧩 Project Structure
 
-## 🧩 Project Structure
-
 ```text
 /
 ├── public/              # Static assets (images, icons, etc.)
@@ -32,5 +30,6 @@
 ├── tsconfig.json        # TypeScript configuration
 └── README.md            # You're here!
 ```
+
 
 
