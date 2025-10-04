@@ -1,0 +1,43 @@
+---
+import Header from '../components/Header.astro';
+import Navigation from '../components/Navigation.astro';
+import Footer from '../components/Footer.astro';
+import Sidebar from '../components/Sidebar.astro';
+
+const { image, credit, title } = Astro.props;
+---
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Yamun Sharma - Researcher. Innovator. Activist.</title>
+    <link rel="stylesheet" href="/styles/global.css">
+  </head>
+  <body>
+    <Header />
+    <Navigation />
+    
+    <div class="main-container">
+      <Sidebar />
+      
+      <main class="main-content">
+        <div class="container">
+          <article class="page-content">
+            {image && (
+              <figure class="blog-image">
+                <img src={image} alt={title} />
+                {credit && <figcaption class="image-credit">{credit}</figcaption>}
+              </figure>
+            )}
+            
+            <slot />
+          </article>
+        </div>
+      </main>
+    </div>
+    
+    <Footer />
+  </body>
+</html>

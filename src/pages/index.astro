@@ -1,0 +1,39 @@
+---
+import HomeLayout from '../layouts/HomeLayout.astro';
+import { getCollection } from 'astro:content';
+
+const blogPosts = (await getCollection('blog'))
+  .sort((a, b) => b.data.pubDate.getTime() - a.data.pubDate.getTime())
+  .slice(0, 6);
+---
+
+<HomeLayout title="Welcome to My Blog">
+  <div class="container">
+    <h1 class="page-title">Welcome to My Blog!</h1>
+    
+    <div class="welcome-container">
+      <p>Hello! I'm Yamun Sharma, a researcher specializing in Anthropology and Education. This is my personal website, which I have created myself using the Astro web framework. On this website, I share my research, thoughts, ideas, experiences, art, poetry, and a lot more!</p>
+    </div>
+    
+    <div class="blog-posts">
+      {blogPosts.length > 0 ? blogPosts.map((post) => (
+        <article class="blog-post">
+          <div class="post-preview">
+            <img src={post.data.image} alt={post.data.title} class="post-image" />
+            <div class="post-content">
+              <h2><a href={`/blog/${post.slug}`}>{post.data.title}</a></h2>
+              <p class="post-meta">Published on: {post.data.pubDate.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' })}</p>
+              <p>{post.data.description}</p>
+              <a href={`/blog/${post.slug}`} class="read-more">Read more</a>
+            </div>
+          </div>
+        </article>
+      )) : (
+        <div class="no-posts">
+          <h3>No blog posts found</h3>
+          <p>Check back soon for new content.</p>
+        </div>
+      )}
+    </div>
+  </div>
+</HomeLayout>

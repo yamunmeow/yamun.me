@@ -1,0 +1,18 @@
+{
+  "name": "yammumeow",
+  "type": "module",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "dependencies": {
+    "astro": "^5.13.10"
+  },
+  "devDependencies": {
+    "@astrojs/cloudflare": "^12.6.9",
+    "@sveltejs/adapter-cloudflare": "^7.2.3"
+  }
+}

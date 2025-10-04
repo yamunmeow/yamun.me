@@ -1,0 +1,37 @@
+---
+export const prerender = true;
+import Layout from '../../layouts/Layout.astro'; 
+import { getEntryBySlug, getCollection } from 'astro:content';
+
+export async function getStaticPaths() {
+ const posts = await getCollection('blog');
+ return posts.map(post => ({ params: { slug: post.slug } }));
+}
+
+const { slug } = Astro.params;
+const post = await getEntryBySlug('blog', slug);
+if (!post) {
+   return { props: {} };
+}
+const { Content } = await post.render();
+
+const { title, description, pubDate, image, credit } = post.data;
+
+const pageTitle = title || "Untitled Post";
+const pageImage = image || null;
+const imageCredit = credit || null;
+---
+
+<Layout title={pageTitle} image={pageImage} credit={imageCredit}>
+
+  <article>
+
+    <h1>{post.data.title}</h1>
+
+    <p>{post.data.description}</p>
+<p><strong>Published:</strong> {new Date(post.data.pubDate).toLocaleDateString()}</p>
+ 
+<Content />
+</article>
+
+</Layout>

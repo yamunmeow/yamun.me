@@ -1,0 +1,53 @@
+---
+import HomeLayout from '../layouts/HomeLayout.astro';
+import { getCollection } from 'astro:content';
+
+export const prerender = false;
+const allBlogPosts = await getCollection('blog');
+const sortedPosts = allBlogPosts.sort((a, b) => new Date(b.data.pubDate).getTime() - new Date(a.data.pubDate).getTime());
+const postsPerPage = 10;
+const currentPage = Number(Astro.url.searchParams.get('page')) || 1;
+const totalPages = Math.ceil(sortedPosts.length / postsPerPage);
+const validPage = Math.max(1, Math.min(currentPage, totalPages));
+const startIndex = (validPage - 1) * postsPerPage;
+const endIndex = startIndex + postsPerPage;
+const currentPosts = sortedPosts.slice(startIndex, endIndex);
+const nextPage = validPage < totalPages ? validPage + 1 : null;
+const prevPage = validPage > 1 ? validPage - 1 : null;
+---
+
+<HomeLayout>
+  <h1 class="page-title">All Blog Posts</h1>
+  
+  <div class="pagination-info">
+    <p>Showing {startIndex + 1}-{Math.min(endIndex, sortedPosts.length)} of {sortedPosts.length} posts (Page {validPage} of {totalPages})</p>
+  </div>
+  
+  <div class="blog-posts">
+    {currentPosts.length === 0 ? (
+      <p>No blog posts found.</p>
+    ) : (
+      currentPosts.map((post) => (
+        <article class="blog-post" key={post.slug}>
+          <div class="post-preview">
+            <img src={post.data.image} alt={post.data.title} class="post-image" />
+            <div class="post-content">
+              <h2><a href={`/blog/${post.slug}`}>{post.data.title}</a></h2>
+              <p class="post-meta">Published on: {new Date(post.data.pubDate).toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' })}</p>
+              <p>{post.data.description}</p>
+              <a href={`/blog/${post.slug}`} class="read-more">Read more</a>
+            </div>
+          </div>
+        </article>
+      ))
+    )}
+  </div>
+
+  {totalPages > 1 && (
+    <div class="pagination-controls">
+      {prevPage && <a href={`/blog?page=${prevPage}`} class="pagination-btn prev-btn">← Previous</a>}
+      <span class="pagination-current">Page {validPage} of {totalPages}</span>
+      {nextPage && <a href={`/blog?page=${nextPage}`} class="pagination-btn next-btn">Next →</a>}
+    </div>
+  )}
+</HomeLayout>
