@@ -13,6 +13,7 @@
 - 🖼️ **Custom Design** — Tailored layout for showcasing content and visuals.
 - 📱 **Responsive** — Works smoothly across desktop and mobile.
 - 🌩️ **Deploy-Ready** — Supports deployment to Cloudflare.
+- 🌱 Eco-Friendly & Static — Built as a static site, reducing server load and energy consumption for a more sustainable web presence.
 
 ---
 
@@ -30,6 +31,7 @@
 ├── tsconfig.json        # TypeScript configuration
 └── README.md            # You're here!
 ```
+
 
 
 
