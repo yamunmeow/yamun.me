@@ -66,19 +66,19 @@ Indian institutions celebrated as “meritocratic” remain overwhelmingly Savar
 - Recent appointments (2018–2023) show **~75%** of higher judiciary seats going to upper-caste judges.
 - In academia, a *Nature* investigation found that **98%** of IIT/IISc professors are from privileged castes, with SC/ST reservation norms barely implemented.
 
-So no—Savarnas are **not** oppressed by reservations.  
-They **run** the institutions they claim are rigged against them.
+So no—Savarnas are **not** oppressed by the state.  
+They **ARE THE STATE**
 
 ---
 
 ## Why Don’t Savarnas See Caste Abroad?
 
-Because privilege is most powerful when invisible.
+To begin with, Savarnas often don’t even notice caste back home. Privilege works best when it feels invisible. So when they move abroad, it’s not surprising that caste slips even further out of sight. If anything, their privilege makes it easier to hide behind a new identity of simply being “Indian,” while the caste inequalities fade conveniently into the background.
 
-Abroad, your brownness becomes hyper-visible, while your caste privilege dissolves into the background. White colleagues won’t ask if you’re a Brahmin or a Kurmi. But caste still shapes who can afford to migrate, who navigates scholarships, who has global networks.
+Basically, when you move abroad from India, caste becomes less visible. White colleagues won’t ask if you’re a Brahmin or Yadav. Most won’t even know what that means. So, your Savarna privilege feels “neutralized,” while your brownness suddenly feels hyper-visible.
 
-Caste doesn’t vanish abroad.  
-It just becomes easier not to see.
+That’s why Savarnas abroad slip into this comfortable illusion: “Here, I am only oppressed.” Which, to be clear, is a less than half-truth. Abroad, you are racialized. But your caste privilege doesn’t vanish; it just hides in plain sight.
+For example: Why did I mostly meet Savarnas among the Indian diaspora in Czechia? Because caste privilege shapes who can afford to go abroad, who can navigate visas, who gets scholarships, who has family networks in Europe. Meanwhile, Bahujans remain underrepresented not because they don’t want to migrate, but because the social and economic capital required to do so is itself caste-mediated.
 
 ---
 
