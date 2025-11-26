@@ -2,7 +2,7 @@
 title: "The Urban, Savarna, Hindu Male Realizes He’s the Subaltern: Intersectionality and Illusions"
 pubDate: 2025-08-28
 description: "An exploration of caste, diaspora identity, and how Savarna Indians selectively understand oppression."
-image: "/images/yamun-sharma-credit.jpg"
+image: "/images/blog/blog-1.webp"
 author: "Your Name"
 tags: ["caste", "diaspora", "anthropology", "intersectionality", "identity"]
 ---
