@@ -108,6 +108,6 @@ Ignoring one while emphasizing the other is dishonest.
 So the next time a Savarna abroad says reservations “oppressed” them, I’ll remind them:
 
 > **98% of IIT professors still look just like you.**  
-> If that’s oppression, wait till you see what real exclusion feels like.
+> If that’s oppression, you are the oppressor.
 
 ---
