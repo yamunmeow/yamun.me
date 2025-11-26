@@ -1,118 +1,113 @@
 ---
 title: "The Urban, Savarna, Hindu Male Realizes He’s the Subaltern: Intersectionality and Illusions"
-description: "In this post, I discuss the intersectionality of caste, especially in the Indian diaspora, and how upper-caste Indians often ignore their caste privilege while facing racial discrimination abroad."
 pubDate: 2025-08-28
-image: "/images/blog/blog-1.webp"
+description: "An exploration of caste, diaspora identity, and how Savarna Indians selectively understand oppression."
+image: "/images/yamun-sharma-credit.jpg"
+author: "Your Name"
+tags: ["caste", "diaspora", "anthropology", "intersectionality", "identity"]
 ---
 
-Image Credit: Yamun Sharma.
+## Positionality 101
 
-## Positionality 101 (Or Why I Am Even Writing This)
-If you’ve ever studied anthropology, you know one of the first things you’re told is: “Acknowledge your **positionality**.” That’s basically academic-speak for: don’t pretend you’re an objective robot; tell us who you are, what baggage you carry, and how it shapes your perspective.
+In the humanities, the first lesson you learn is to acknowledge your **positionality**—to recognize that you’re not an objective observer but a person shaped by identity, history, and privilege. So here’s mine: I am **urban, Savarna, Hindu, male, and a Brahmin**. A sentence that would make Ambedkar roll in his grave if I then claimed subalternity in India.  
 
-So, here’s me: I am **urban, Savarna, Hindu, male**, and specifically, a **Brahmin**. A sentence that would make Ambedkar spin in his grave if I then went on to call myself the subaltern. (Spoiler: I won’t, but many Savarnas do.)
+But life complicates identities. I’m also a brown student living in Europe—marginalized in some contexts, privileged in others. Understanding identity requires resisting simplifications; positionality is always layered.
 
-I studied humanities in college, specializing in social and cultural anthropology. During my years abroad in the Czech Republic, I researched Indian diaspora festivals. My research sample was unusually wide, meaning I probably met more Indians in Czechia than the average Czech or Indian in the Czech Republic ever will. And here’s where things got interesting: most of these Indians were **Savarna**. The few Bahujans I met were usually laborers in smaller towns like Česká Lípa, or first-generation upwardly mobile families. Even most of these people were OBCs, while SCs and STs were almost **invisible** in these circles.
+During my anthropology studies in the Czech Republic, I researched Indian diaspora festivals. I met far more Indians than both Czechs and other Indians living there—and almost all were **Savarna**. Bahujans appeared only occasionally, often as laborers or first-generation upwardly mobile families. SC and ST presence was nearly invisible.
 
-Meanwhile, I was getting a crash course in racism in Europe. I’ve had someone “apologize” to me when I told them I was from India, because (in his words) I came from a “shitty country.” Another time, a classmate told my friend that Indians don’t wash their hands after using the toilet. And then there’s the classic—Indians smell like curry. (I’d honestly respect the insult more if they at least specified which curry. They don't all smell the same!)
-
-So yes, **brown people abroad do face real racism**. But here’s the illusion: many Savarnas, when they face this racial othering, suddenly start calling themselves **oppressed** while completely ignoring the centuries of **privilege** they still carry within Indian society and also Indian diasporic communities.
-
----
-
-## The Roma and My Anthropological Wake-Up
-What really opened my eyes to this selective understanding of oppression was, oddly enough, a festival. While at Charles University one summer, I attended **Khamoro**, the annual **Roma festival in Prague**. It was dazzling—music, dance, celebration of a culture that, for centuries, Europe has tried to erase or degrade.
-
-Given that the Roma are widely believed to have migrated from India centuries ago, I couldn’t help but draw comparisons and notice the irony: here were a people linked to the same subcontinent as me, yet occupying such a vastly different social position.
-
-The Roma are structurally marginalized in Europe, often treated as the “internal other.” In contrast, Indians—especially Savarnas—were not seen in the same way. In fact, many Czechs respected India (or at least their orientalist fantasy of it). As the Czech Indologist **Martin Hříbek** has argued in his article, the “Czech other” has historically been groups like the Roma or, increasingly, the Vietnamese diaspora. Indians, by contrast, were sometimes seen as exotic but rarely despised in the same entrenched way. I don’t fully agree with Hříbek here, because while the orientalist gaze on Indians may not look like hostility every time, it is still very much **orientalism**—exoticizing, stereotyping, and flattening Indian identities into simplistic tropes.
-
-Nevertheless, this hit me hard: in Czechia, **Savarna Indians like myself had more in common with privileged migratory groups than with the Roma**. Yet in diaspora conversations, Indians (most of them Savarna) spoke as though they were the Roma of Europe. They were quick to frame themselves as the oppressed, but never paused to ask what privileges they carried with them into those spaces.
-
-Later, during my Erasmus in Tallinn, I sat in on a lecture by a white, English-speaking professor—an insider flipping the script—who described the different biases in learning game design (Male, English-speaking, Western, White, Upper-Class). He went on to argue that at the end of the day, capitalism and class are what really matter, saying something like: ‘A rich Black person and a rich white person will always have more in common than a poor Black and a poor white person.’ It struck me then how this logic mirrors the Savarna reasoning abroad: you’ll talk race or religion all day, but **caste (and the class it embeds) stays conveniently in the shadow**. Ironically though, the professor only really recognized as a problem the one identity he didn’t quite possess—class (bourgeoise)—because as a middle-class (proletariat) man he could cast himself as oppressed, while his being male, white, and English-speaking barely registered to him as relevant.
-
-This gap—between how oppression is experienced and how it is narrated—was my anthropological wake-up call.
+Meanwhile, Europe gave me its own crash course in racism: apologies for being from a “shitty country,” jokes about hygiene, and the classic “Indians smell like curry” trope (which, honestly, could at least specify which curry). Yes, brown people abroad face real racism. But many Savarnas respond to this by suddenly imagining themselves as globally oppressed—while ignoring the caste power they still carry.
 
 ---
 
-## Why "Upper Caste" Gets Scare Quotes
-Notice how I keep putting **“upper caste” in quotes**? That’s deliberate. Because caste isn’t simply class or race. It’s **identity**. It’s community. For Bahujans, it’s also the history of oppression that has shaped their very existence. To deny them their caste now, after centuries of violence, would be like denying colonized countries their **modernities** (yes that’s not a typo, it is supposed to be in plural) because colonizers suddenly had a change of heart. Or, to get cheeky: it’s like privileged men suddenly saying sex work is immoral, after centuries of enjoying it. Who gave them the right to decide?
+## The Roma and the Indians
 
-A strong example of how the power to define identity is monopolized by those coming from dominant and privileged positions is how anti-racism movements impose new terminology on Black authors. Even with the best of intentions, this can become another form of imposition, as **Minna Salami**, a Black writer herself discusses in her article. She argues that Black authors, should have the agency to decide how their identities are framed. The debate over capitalizing the "B" in Blackness is a strong example of this. When influential institutions like the **Associated Press** (known as the bible of journalism) updated their style guide to capitalize the "B", in "black" many anti-racist scholars found this transformational. It was a change that many Black scholars welcomed since it frames the lowercase "black" as a color rather than an identity. This small typographical change holds many different meanings: for centuries, Black people have been forced into limiting racial categorizations, it was a color that defined them. However, now this imposition is reaching out to an extent that White scholars are arguing with Black authors on what is the correct way to refer to their own communities. This is yet another **epistemic control** over when and where something is right and when it is not. And the decision to decide the time and the discourse of what is right always remains to be in the hands of the powerful and the oppressors, themselves. Minna Salami makes a strong case that Black people have the power to shape their own identities, not just conform to externally imposed standards, however well-meaning they may seem.
+A moment of clarity came at **Khamoro**, Prague’s annual Roma festival. The Roma—people with historical roots in India—are among Europe’s most marginalized, treated as its “internal other.” In contrast, Indians, especially Savarna Indians, are often exoticized but **not structurally despised**.
 
-That’s the power game: Savarnas get to decide when caste matters and when it doesn’t. When it benefits them, caste is “tradition.” When it implicates them, caste is “outdated.” That’s why I’ll either use **Savarna**, or **“upper caste” with air quotes**—because it’s not inherently superior, and because acknowledging Bahujan caste identities as equal is non-negotiable.
+As Czech Indologist Martin Hříbek notes, the Czech “other” has been historically the Roma or, increasingly, Vietnamese communities—not Indians. While I disagree with parts of his argument, he’s right that Indians enjoy a different cultural positioning.
+
+Yet diaspora Indians often talk as if they were the Roma of Europe—quick to adopt the language of oppression, slow to acknowledge the privileges they bring into those spaces.
+
+Later, during an Erasmus+ semester in Tallinn, a lecture on bias in game design reinforced this pattern. A professor spoke about how being male, English-speaking, Western, white, and upper-class shapes the field, but framed class as the *real* issue—conveniently highlighting the one identity he didn’t possess. It echoed Savarna logic abroad: foreground the identity where you're disadvantaged, minimize the ones where you're privileged.
+
+This tension—between **experience** and **narration**—became my anthropological wake-up call.
+
+---
+
+## Why “Upper Caste” Gets Scare Quotes
+
+I use **“upper caste”** deliberately. Caste is not just status; it’s identity, community, and for Bahujans, a history of oppression embedded into their lives. Denying caste now is like denying colonized nations their modernities because colonizers feel differently today.
+
+The power to define identity has always belonged to the dominant. Consider how anti-racism movements sometimes impose new terminology on Black authors. Writer **Minna Salami** argues that Black communities must have agency over how they’re named. The debate over capitalizing “Black” illustrates how even well-meaning interventions can become another form of epistemic control.
+
+That’s how caste works too. Savarnas decide when caste is heritage and when it is outdated. Hence the scare quotes—because “upper caste” is not a neutral descriptor but a claim of superiority that needs constant interrogation.
 
 ---
 
 ## Intersectionality Abroad: The Convenient Version
-When Savarnas move abroad, they suddenly embrace a simplified version of intersectionality: “I am brown, therefore I am oppressed.” Sure, racism and xenophobia are real. But where does caste fit into this picture? It usually doesn’t.
 
-At best, caste is reduced to dinner-table nostalgia about family surnames or “which region are you from?” At worst, it’s twisted into a new form of victimhood: “We’re being oppressed by the state back home because of reservations. I didn’t get into an IIT because of quotas.”
+When Savarnas move abroad, they often adopt a watered-down intersectionality:  
+**“I am brown, therefore I am oppressed.”**
 
-This is where anthropology-trained me wants to bang my head against the nearest ethnographic table. Because data tells us the opposite: **Savarnas are still absurdly overrepresented in positions of power.**
+Racism is real, but caste nearly vanishes in their narratives.
+
+At best, caste becomes nostalgia about surnames.  
+At worst, it becomes a twisted victim narrative: “I didn’t get into IIT because of reservations.”
+
+But **data says otherwise**.
 
 ---
 
-## The Numbers Don’t Lie (or do they?) 
-Let’s look at some facts that shatter the “Savarna as victim” illusion.
+## These Numbers Don’t Lie
 
-### Judiciary
-A striking example of entrenched upper-caste dominance is the Indian Supreme Court.
+Indian institutions celebrated as “meritocratic” remain overwhelmingly Savarna-dominated:
 
-* As of 2023, **36.4%** of sitting Supreme Court judges are **Brahmins**—despite Brahmins comprising only around **5%** of India's population. The rest of the bench is similarly skewed toward other privileged forward castes like Banias, Kayasthas, and Rajputs (Supreme Court Observer, Feminism in India).
-* SC/ST/OBC judges remain minimal. Only about **12.1%** of current judges are from Scheduled Castes or OBCs—starkly disproportionate to their combined population share of **over 60%** (Supreme Court, Observer Feminism in India).
-* Historically, between 1950 and 1989, over **40%** of Supreme Court judges were Brahmins, and nearly **50%** were from other forward castes. SC/ST/OBC representation never crossed **10%** in that period (NewsClick).
-* Among Chief Justices of India, at least **14 out of 47** have been Brahmins (**~30%**) (Bar and Bench - Indian Legal news, The Leaflet).
-* Examining more recent appointments:
-    * Between 2018 and 2023, **75.7%** of judges appointed to higher judiciary were from the general (**upper-caste**) category, with only **11.7%** OBC, **3.5%** SC, and **1.5%** ST (Business Standard).
-    * A widely shared social-media claim (by retired Judge K. Chandru) notes that **79%** of judges appointed in the past five years were upper-caste, with Brahmin representation specifically around **34%** (Kerala Kaumudi).
+- In the **Supreme Court**, Brahmins—about 5% of the population—were **36.4%** of sitting judges in 2023, while SC/ST/OBC judges together were just **12.1%** despite forming over 60% of India.
+- Historically, forward castes made up almost **90%** of the Court (1950–1989), and **~30%** of all Chief Justices have been Brahmins.
+- Recent appointments (2018–2023) show **~75%** of higher judiciary seats going to upper-caste judges.
+- In academia, a *Nature* investigation found that **98%** of IIT/IISc professors are from privileged castes, with SC/ST reservation norms barely implemented.
 
-### Academia (IITs and IISc)
-In India’s premier tech-educational elite:
-
-* A *Nature* investigation found that in the top five **IITs** (Delhi, Bombay, Madras, Kanpur, Kharagpur), and **IISc Bengaluru**, **98%** of professors and over **90%** of assistant/associate professors are from privileged (**upper-caste**) groups (*Nature*).
-* Reserved quotas (15% for SC, 7.5% ST) are not being implemented in faculty recruitment (ThePrint).
-* Among PhD students, Dalits make up around **10%**, Adivasis a meagre **2%**. Faculty reservation quotas? Largely ignored (TheQuint).
-* Similarly, DST’s INSPIRE Fellowships from 2016–2020 had **80%** recipients from privileged castes, while only **6%** were SC and **<1%** ST (TheQuint).
-
-The data paints a powerful picture: spaces commonly valorized as “meritocratic” are deeply hostile to caste diversity.
-
-### Civil Services
-The “steel frame of India,” the IAS and allied services, has long been dominated by Savarnas. While reservations have improved OBC/SC/ST representation, top leadership roles still tilt heavily Savarna. (Even the term “merit” in UPSC circles is often code for Savarna.)
-
-So, no, Savarnas are **NOT** oppressed by the state. **THEY ARE THE STATE.** They dominate its judiciary, its science institutions, its bureaucracy. Calling themselves oppressed because of caste reservations is like the Indian PM (Prime Meritocratic) billionaire Gautam Adani complaining that the poor get free rice.
+So no—Savarnas are **not** oppressed by reservations.  
+They **run** the institutions they claim are rigged against them.
 
 ---
 
 ## Why Don’t Savarnas See Caste Abroad?
-To begin with, Savarnas often don’t even notice caste back home—**privilege works best when it feels invisible**. So when they move abroad, it’s not surprising that caste slips even further out of sight. If anything, their privilege makes it easier to hide behind a new identity of simply being “Indian,” while the caste inequalities fade conveniently into the background.
 
-Basically, when you move abroad from India, caste becomes less visible. White colleagues won’t ask if you’re a Brahmin or Yadav. Most won’t even know what that means. So, your Savarna privilege feels “neutralized,” while your brownness suddenly feels **hyper-visible**.
+Because privilege is most powerful when invisible.
 
-That’s why Savarnas abroad slip into this comfortable illusion: “Here, I am only oppressed.” Which, to be clear, is a less than half-truth. Abroad, you are racialized. But your caste privilege doesn’t vanish; it just hides in plain sight.
+Abroad, your brownness becomes hyper-visible, while your caste privilege dissolves into the background. White colleagues won’t ask if you’re a Brahmin or a Kurmi. But caste still shapes who can afford to migrate, who navigates scholarships, who has global networks.
 
-For example: Why did I mostly meet Savarnas among the Indian diaspora in Czechia? Because **caste privilege shapes who can afford to go abroad**, who can navigate visas, who gets scholarships, who has family networks in Europe. Meanwhile, Bahujans remain underrepresented not because they don’t want to migrate, but because the social and economic capital required to do so is itself **caste-mediated**.
+Caste doesn’t vanish abroad.  
+It just becomes easier not to see.
 
 ---
 
 ## Personal Encounters with the Illusion
-During my fieldwork, I had some of these bizarre conversations:
 
-* I’d tell someone, “Brahmins are less than **5%** of India’s population,” and they’d be shocked. “Really? I thought it was **30%**!” Why? Because almost everyone they knew in their circles was Brahmin. Their sample was as biased as mine.
-* Some Savarna students abroad would moan about how reservations kept them out of IITs. But when I showed them the stats—that **98%** of IIT professors are Savarna—they’d go silent, or change the subject to cricket.
+Some conversations during fieldwork were deeply revealing:
 
-The illusion of oppression is not just ignorance; it’s a **convenient narrative**. It’s easier to say “I am discriminated against because I’m Indian abroad” than to say “I also benefit from centuries of caste power back home and here in my community.”
+- Many Savarnas genuinely believed Brahmins made up **30%** of India’s population—because everyone in *their* social circles was Brahmin.
+- Students blamed reservations for not getting into IITs but went silent when shown that **98%** of IIT professors are Savarnas.
+
+This isn’t just ignorance.  
+It’s a **narrative convenience**.
 
 ---
 
 ## Here Comes the Intersectionality
-What I’ve learned, through anthropology and through life, is that **intersectionality** isn’t just about tallying up how oppressed you feel in a given context. It’s about acknowledging all the axes of **privilege and disadvantage** that shape you—simultaneously.
 
-For Indian Savarnas abroad, that means holding two truths at once:
+Intersectionality isn’t a competition of who is most oppressed. It’s the recognition that privilege and disadvantage coexist within the same person.
 
-1.  Yes, you are **racialized** and discriminated against in white-majority countries.
-2.  But you also carry **caste privilege** that continues to shape opportunities, even in diaspora spaces.
+For Savarnas abroad, this means acknowledging:
 
-Intersectionality demands more honesty than that. It demands we stop clutching the illusion of oppression while ignoring the privileges that brought us here in the first place.
+1. Yes, you are racialized in white-majority spaces.  
+2. But you also carry caste privilege that shapes your opportunities—even in the diaspora.
 
-So, the next time a Savarna abroad claims they’re oppressed because they didn’t get into IIT, I’ll remind them: **98% of IIT professors are still people like you**. And if you think that’s oppression, wait till you see what real exclusion looks like.
+Ignoring one while emphasizing the other is dishonest.
+
+So the next time a Savarna abroad says reservations “oppressed” them, I’ll remind them:
+
+> **98% of IIT professors still look just like you.**  
+> If that’s oppression, wait till you see what real exclusion feels like.
+
+---
