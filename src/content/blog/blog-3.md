@@ -9,7 +9,7 @@ Food is never just food. What we eat, how we prepare it, and what dishes we pair
 
 I was at an Indian restaurant in Prague with one of my white European friends, when I ordered these two dishes and explained that they taste good together since both are from the South and I had often eaten them side by side at South Indian weddings. However, the waiting staff told us that they are “completely off” and don’t go together.
 
-It was not a disagreement of taste. It was a denial of identity, legitimacy, and the politics of representation within the Indian diaspora. That denial showed me how Indian identity, especially abroad, is **selectively represented** by those who already dominate cultural narratives at home: **primarily upper-caste, Hindi-speaking, North Indian Hindu men.** 
+> It was not a disagreement of taste. It was a denial of identity, legitimacy, and the politics of representation within the Indian diaspora. That denial showed me how Indian identity, especially abroad, is **selectively represented** by those who already dominate cultural narratives at home: **primarily upper-caste, Hindi-speaking, North Indian Hindu men.** 
 
 Their confidence in curating and presenting **“India”** to the rest of the world is so complete that it delegitimizes or erases the traditions, cuisines, languages, and experiences of others; South Indians, East Indians, Muslims, Dalits, women, and queer people.
 
@@ -49,7 +49,9 @@ During my ethnographic fieldwork on the festivals of Indian diaspora in the Czec
 
 ## Why This Matters
 At one level, it may seem trivial: a restaurant menu in Prague, a festival performance, a plate of food. But representation matters because it shapes how communities see themselves and how they are seen by others. When diaspora spaces consistently erase or **delegitimize** certain identities, it reinforces the systemic injustices those communities **already face back home.**
-For South Indians, it means constantly being told, explicitly or implicitly, that their foods, languages, and traditions are not really Indian, or at least not Indian enough to be the **default or mainstream**. For Kashmiris, it means having their political and cultural autonomy overwritten by the **Indian label** or [**“Madras Prawns in Kashmiri Sauce” (read more here)**](/blog/blog-3/) on a North Indian restaurant menu. For Muslims, it means being erased altogether from the picture of “India abroad.”
+For South Indians, it means constantly being told, explicitly or implicitly, that their foods, languages, and traditions are not really Indian, or at least not Indian enough to be the **default or mainstream**. For Muslims, it means being erased altogether from the picture of “India abroad.”
+
+> For Kashmiris, it means having their political and cultural autonomy overwritten by the **Indian label** or [**“Madras Prawns in Kashmiri Sauce” (read more here)**](/blog/blog-3/) on a North Indian restaurant menu. 
 
 Food, festivals, and narratives in diaspora are not neutral. They are political. They reproduce hierarchies, delegitimize difference, and reinforce the power of the mainstream.
 
