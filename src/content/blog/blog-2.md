@@ -7,7 +7,7 @@ image: "/images/blog/blog-2.webp"
 
 Last summer, after two years in Europe, I returned home to India seeking solace in familiar surroundings and people. Instead, I found myself enraged— by the insidious consistency of dysfunction. The educational system that fails our poorest children, public hospitals out of reach, streets choked with pollution and poor AQI, the police bogged down in bureaucracy—all of it. But the frustration wasn’t in the chaos; it was how methodically and “normally” everything stays broken.
 
-A conversation with a dear friend introduced me to POSIWID—Purpose of a System Is What It Does. Unlike ideological critiques pitting people’s stated intent against reality, POSIWID invites a more disturbing possibility: perhaps the system isn’t broken; perhaps it’s working exactly as intended.
+A conversation with a dear friend introduced me to **POSIWID—Purpose of a System Is What It Does.** Unlike ideological critiques pitting people’s stated intent against reality, POSIWID invites a more disturbing possibility: perhaps the system isn’t broken; perhaps it’s working exactly as intended.
 
 Think about it: 
 
@@ -15,21 +15,27 @@ Think about it:
 
 One day, I was even more convinced of POSIWID when I tried sending a postal package to a friend. India Post’s server was down the entire day. I had checked the prices of private services like DHL and Blue Dart online the day before, but on that day, as India Post remained non-functional, the prices of those very services skyrocketed. This wasn’t a one-off—India Post offices had been down consistently over the past few months, predictably so, yet no solution was ever offered. Very ironically, an India Post staff member even advised me that it would be better if I simply went to a private company like DHL or Blue Dart to send my package.
 
-# Privatization as the Unseen Benefactor of Public Failure
+---
+
+## Privatization as the Unseen Benefactor of Public Failure
 In countries like India, capital holds power and controls the narrative. Government services, when decent, benefit the collective. But when they falter, opportunities arise for capitalists to hijack the narrative. After all, it’s the capitalists who stand to gain from the government failure.
 
 The logic is quite simple: when public enterprises make money (say, from postal services, railways, or telecom), those earnings are reinvested in infrastructure, schools, transport, universal healthcare. These are public goods—shared, durable, improving equity.
 
 By contrast, private capital funnels profits back into select hands of the stakeholders. Billionaires build sky-villas like Ambani’s Antilia, own fleets of private jets, yachts, luxury cars. The wealth is concentrated; very little trickles down. The system ensures what POSIWID suggests: public failure means private profit.
 
-# The State Couldn’t Care Less
+---
+
+## The State Couldn’t Care Less
 An interesting case is that of BSNL – India’s state-owned telecom operator, which was recently found by the [**Comptroller and Auditor General (CAG) to have failed to bill Reliance Jio for shared passive infrastructure from 2014 to 2024, costing the government ₹1,757 crore (~$200.0 million) + plus interest**](https://www.business-standard.com/companies/news/bsnl-bill-reliance-jio-govt-loss-cag-125040200640_1.html).
 
 This isn’t mere incompetence. When institutions controlled by the state lapse on enforcing such contracts, they effectively transfer value to powerful private players. Jio, the reliance group owned telecom company – known for its unethical practices to have monopolized the market objectively benefits from this public failure. And when the audit draws attention, BSNL responds by challenging the findings, claiming the loss is overstated (Business Today). Meanwhile, public funds remain uncollected.
 
 Why does this matter? Because it signals that when the public institution fails, capital wins. POSIWID again: it’s not that the system failed by accident; it’s that the failure compensates powerful interests perfectly.
 
-# POSIWID as a Call to See the System for What It Is
+---
+
+## POSIWID as a Call to See the System for What It Is
 When systems exhibit consistent failure, especially where the failures benefit the wealthy or entrenched capital groups, it’s not enough to call for efficiency fixes. POSIWID invites something more radical: to question the purpose.
 
 If education systems are chronically underfunded and mismanaged, who benefits? Private schools, ed-tech startups, tutoring conglomerates.
@@ -40,7 +46,9 @@ If transportation is unreliable, who profits? Ride-hail apps, logistics moguls, 
 
 So, we must study the patterns of failure, not just the failures themselves. Because what a system repeatedly does—it might be doing purpose.
 
-# Let’s Decode the Hidden Purpose: Dysfunction Is Design, Not Defect
+---
+
+## Let’s Decode the Hidden Purpose: Dysfunction Is Design, Not Defect
 
 I don’t want to be the person, who just points out a problem, and doesn’t care about the solutions. So, I’d contribute my part in brainstorming by proposing some very preliminary solutions to this problem where the capitalistic entities are draining all our resources and degrading the public facilities to exercise complete control over our lives. So how do we achieve a world where systems serve true public interest?
 
