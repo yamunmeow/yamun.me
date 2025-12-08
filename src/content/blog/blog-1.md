@@ -7,7 +7,7 @@ image: "/images/blog/blog-1.webp"
 
 ## Positionality 101
 
-In the humanities and social sciences, one of the first lessons you learn is to acknowledge your **positionality**—to recognize that you’re not an objective observer but a person shaped by identity, history, and privilege. So here’s mine: I am **urban, Savarna, Hindu, male, and a Brahmin**. A sentence that would make Ambedkar roll in his grave if I then claimed subalternity in India.  
+In the humanities and social sciences, one of the first lessons you learn is to acknowledge your **positionality**—to recognize that you’re not an objective observer but a person shaped by identity, history, and privilege. So here’s mine: I am **urban, Savarna, Hindu, male, and a Brahmin**. A sentence that would make Ambedkar roll in his grave if I then went on to call myself the SUBALTERN.
 
 But life complicates identities. I’m also a brown student living in Europe—marginalized in some contexts, privileged in others. Understanding identity requires resisting simplifications; positionality is always layered.
 
@@ -109,3 +109,4 @@ So the next time a Savarna abroad says reservations “oppressed” them, I’ll
 
 
 ---
+
