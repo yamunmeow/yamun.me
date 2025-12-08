@@ -50,9 +50,7 @@ That’s the power game. The Savarnas get to decide when caste matters and when 
 When Savarnas move abroad, they suddenly embrace a simplified version of intersectionality: “I am brown, therefore I am oppressed.” Sure, racism and xenophobia are real. But where does caste fit into this picture? It usually doesn’t.
 At best, caste is reduced to dinner-table nostalgia about family surnames or “which region are you from?” At worst, it’s twisted into a new form of victimhood: “We’re being oppressed by the state back home because of reservations. I didn’t get into an Indian Institute of Technology (IIT) because of quotas.”
 
-This is where anthropology-trained me wants to bang my head against the nearest ethnographic table. Because data tells us the opposite. Savarnas are still absurdly overrepresented in positions of power.
-
-But **data says otherwise**.
+This is where anthropology-trained me wants to bang my head against the nearest ethnographic table. Because **data tells us the opposite**. Savarnas are still absurdly overrepresented in positions of power.
 
 ---
 
@@ -108,5 +106,6 @@ So the next time a Savarna abroad says reservations “oppressed” them, I’ll
 
 > **98% of IIT professors still look just like you.**  
 > If that’s oppression, you are the oppressor.
+
 
 ---
