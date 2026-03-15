@@ -35,7 +35,7 @@ image: "/images/blog/blog-5.webp"
 
 > Would it be a torus? 
 
-> like a wheel? 
+> like a tire? 
 
 > Where would it be headed? 
 
