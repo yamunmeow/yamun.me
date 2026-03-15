@@ -5,43 +5,46 @@ pubDate: 2026-03-15
 image: "/images/blog/blog-5.webp"
 ---
 
-> Sometimes, I wonder...
+> Sometimes, I wonder... 
 
-> How would I balance on an earth
+> How would I balance on an earth 
 
-> that was a donut?> Would it be black or brown
+> that was a donut?> Would it be black or brown 
 
-> white or pink?
+> white or pink? 
 
-> would it even matter so much though
+> would it even matter so much though 
 
-> Would it be flat?
+> Would it be flat? 
 
-> If so,
+> If so, 
 
-> would I be on the dough
+> would I be on the dough 
 
-> or the void?
+> or the void? 
 
-> Would there be lines
+> Would there be lines 
 
-> dividing the dough?
+> dividing the dough? 
 
-> How would I know
+> How would I know 
 
-> those beyond the void though?
+> those beyond the void though? 
 
-> Would it be a torus?
+> Would it be a torus? 
 
-> like a wheel?
+> like a wheel? 
 
-> Where would it be headed?
+> Where would it be headed? 
 
-> Then I remember
+> Then I remember 
 
-> it's a difficult question
+> it's a difficult question 
 
 > For I do not know
-> that even when
-> the earth is not a donut
-> (with sprinkles)
+
+> that even when 
+
+> the earth is not a donut 
+
+> (with sprinkles) 
