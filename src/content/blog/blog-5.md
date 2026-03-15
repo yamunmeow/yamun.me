@@ -9,7 +9,9 @@ image: "/images/blog/blog-5.webp"
 
 > How would I balance on an earth 
 
-> that was a donut?> Would it be black or brown 
+> that was a donut? 
+
+> Would it be black or brown 
 
 > white or pink? 
 
